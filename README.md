@@ -6,7 +6,7 @@ A modern and user-friendly web-based **Network Calculator** designed to help stu
 -  Clone the Repository
 git clone https://github.com/Syntaxdevv/IP_NETCAL.git
 - Open the Project
-cd network-calculator
+cd IP_NETCAL
 - Run the Website
 
 #### Open index.html directly in your browser.
