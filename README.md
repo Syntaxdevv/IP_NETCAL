@@ -161,23 +161,6 @@ Hexadecimal : 0xC0A80119
 
 ---
 
-### 🔢 Binary Converter
-
-**Input:**
-
-```text
-11000000101010000000000100011001
-```
-
-**Output:**
-
-```text
-Decimal      : 3232235801
-Hexadecimal  : 0xC0A80119
-Binary Length: 32 bits
-```
-
----
 
 ### 📐 CIDR Calculator
 
