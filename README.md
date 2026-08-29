@@ -4,7 +4,7 @@ A modern and user-friendly web-based **Network Calculator** designed to help stu
 
 # 🚀 How to Run
 - 1. Clone the Repository
-git clone https://github.com/syntaxdevv/IP_NETCAL.git
+git clone https://github.com/Syntaxdevv/IP_NETCAL.git
 - 2. Open the Project
 cd network-calculator
 - 3. Run the Website
