@@ -269,9 +269,12 @@ Available     : 14 Hosts
 ```
 
 **Remaining Addresses:**
-
 ```text
 16
 ```
 
 ---
+
+## 📄 License
+
+This project is intended for educational and learning purposes. You are free to use, modify, and improve the project for personal and academic use.
