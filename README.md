@@ -3,15 +3,14 @@
 A modern and user-friendly web-based **Network Calculator** designed to help students and networking beginners perform common IP addressing, subnetting, and network calculations.
 
 # 🚀 How to Run
-- 1. Clone the Repository
+-  Clone the Repository
 git clone https://github.com/Syntaxdevv/IP_NETCAL.git
-- 2. Open the Project
+- Open the Project
 cd network-calculator
-- 3. Run the Website
+- Run the Website
 
-Open index.html directly in your browser.
-
-For local development, you can also use VS Code Live Server.
+#### Open index.html directly in your browser.
+#### For local development, you can also use VS Code Live Server.
 
 ## ✨ Features
 
