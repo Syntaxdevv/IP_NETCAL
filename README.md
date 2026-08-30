@@ -2,6 +2,7 @@
 
 A modern and user-friendly web-based **Network Calculator** designed to help students and networking beginners perform common IP addressing, subnetting, and network calculations.
 
+## Live : https://ipnetworkingcal.netlify.app/
 # 🚀 How to Run
 -  Clone the Repository
 git clone https://github.com/Syntaxdevv/IP_NETCAL.git
